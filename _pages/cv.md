@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Currently I am a Marketing Data Science Director at American Express Company, working on enterprise deep learning research and capability development. I obtained my Ph.D. degree from University of Michigan, [Eletrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department, majoring in Control System, under the guidance of [Professor Semyon M. Meerkov](https://eecs.engin.umich.edu/people/meerkov-semyon-m/), in August 2021, and the B.S.E. degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) (HIT), China, in 2016.
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+My research interests include:
+* Natural Language Processing.
+* Stochastic System Analysis and Control.
+* Application of Probability Theory.
+* Optimization.
   
-Skills
+Dissertation
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Improvement, defended successfully on June 16th, 2021. [Video](https://www.youtube.com/watch?v=bXkVGuTwRiY&t=1558s) [PDF](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/169726/kangliu_1.pdf?sequence=1) Committee members: Semyon M. Meerkov, Roman Kapuscinski, S. Sandeep Pradhan, Lei Ying.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
