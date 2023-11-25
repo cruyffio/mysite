@@ -23,7 +23,7 @@ My research interests include:
 
 ## Dissertation
 
-The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Improvement, defended successfully on June 16th, 2021. [[Video]](https://www.youtube.com/watch?v=bXkVGuTwRiY&t=1558s) [[PDF]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/169726/kangliu_1.pdf?sequence=1) Committee members: Semyon M. Meerkov, Roman Kapuscinski, S. Sandeep Pradhan, Lei Ying.
+The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Improvement, defended successfully on June 16th, 2021. [[Video]](https://youtu.be/bXkVGuTwRiY?si=57wng7QdGf_C-qea) [[PDF]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/169726/kangliu_1.pdf?sequence=1) Committee members: Semyon M. Meerkov, Roman Kapuscinski, S. Sandeep Pradhan, Lei Ying.
 
 
 ## Publications
