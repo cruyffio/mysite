@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S.E., Harbin Institute of Technology, 2012 - 2016.
+  * Exchange term, University of California, Berkeley, 2014.
+  * Summer research, University of California, Los Angeles, 2015.
 * Ph.D. in Electrical Engineering and Computer Science, University of Michigan (Ann Arbor), 2016 - 2021.
 
 Work Experience
