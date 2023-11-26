@@ -9,24 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Currently I am a Marketing Data Science Director at American Express Company, working on enterprise deep learning research and capability development. I obtained my Ph.D. degree from University of Michigan, [Eletrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department, majoring in Control System, under the guidance of [Professor Semyon M. Meerkov](https://eecs.engin.umich.edu/people/meerkov-semyon-m/), in August 2021, and the B.S.E. degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) (HIT), China, in 2016.
+Education
+======
+* B.S.E., Harbin Institute of Technology, 2012 - 2016.
+* Ph.D. in Electrical Engineering and Computer Science, University of Michigan (Ann Arbor), 2016 - 2021.
 
+Work Experience
+======
+* Senior Manager in Machine Learning and Deep Learning modeling, American Express, Aug 2021 - Nov 2022.
+* Director in Marketing Data Science, Machine Learning and Deep Learning capability, American Express, Nov 2022 - Present.
 
-## Research
-
-My research interests include:
-* Natural Language Processing.
-* Stochastic System Analysis and Control.
-* Application of Probability Theory.
-* Optimization.
-  
-
-## Dissertation
-
-The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Improvement, defended successfully on June 16th, 2021. [[Video]](https://youtu.be/bXkVGuTwRiY?si=57wng7QdGf_C-qea) [[PDF]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/169726/kangliu_1.pdf?sequence=1) Committee members: Semyon M. Meerkov, Roman Kapuscinski, S. Sandeep Pradhan, Lei Ying.
-
-
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Skills
+======
+* Natural Langauge Processing, Deep Learning, Machine Learning.
+* Python, PyTorch, :hugs: Transformers, openai-python
+* Cloud Application, Real-time Application, Machine Learning Application
