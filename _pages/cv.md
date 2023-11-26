@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About me"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,5 +22,5 @@ Work Experience
 Skills
 ======
 * Natural Langauge Processing, Deep Learning, Machine Learning.
-* Python, PyTorch, :hugs: Transformers, openai-python
-* Cloud Application, Real-time Application, Machine Learning Application
+* Python, PyTorch, 🤗 Transformers, openai-python.
+* Cloud Application, Real-time Application, Machine Learning Application.
