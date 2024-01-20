@@ -6,10 +6,10 @@ excerpt: 'Key words: robotic surgery; suture; surgical platform; force sensor; s
 date: 2017-08-01
 venue: 'Surgical Endoscopy'
 paperurl: 'https://ieeexplore.ieee.org/ielaam/8856/9470960/9180078-aam.pdf'
-citation: 'Alavian, Pooya, Yongsoon Eun, Kang Liu, Semyon M. Meerkov, and Liang Zhang. "The (&alpha;, &beta;)-precise estimates of MTBF and MTTR: Definition, calculation, and observation time." <i>IEEE Transactions on Automation Science and Engineering</i> 18, no. 3 (2020): 1469-1477.'
+citation: 'Abiri, Ahmad, Omeed Paydar, Anna Tao, Megan LaRocca, Kang Liu, Bradley Genovese, Robert Candler, Warren S. Grundfest, and Erik P. Dutson. "The (&alpha;, &beta;)-precise estimates of MTBF and MTTR: Definition, calculation, and observation time." <i>IEEE Transactions on Automation Science and Engineering</i> 18, no. 3 (2020): 1469-1477.'
 ---
 Key words: robotic surgery; suture; surgical platform; force sensor; suture tensile strength; da Vinci.
 
 [Download paper here](https://ieeexplore.ieee.org/ielaam/8856/9470960/9180078-aam.pdf)
 
-Recommended citation: Alavian, Pooya, Yongsoon Eun, Kang Liu, Semyon M. Meerkov, and Liang Zhang. "The (&alpha;, &beta;)-precise estimates of MTBF and MTTR: Definition, calculation, and observation time." <i>IEEE Transactions on Automation Science and Engineering</i> 18, no. 3 (2020): 1469-1477.
+Recommended citation: Abiri, Ahmad, Omeed Paydar, Anna Tao, Megan LaRocca, Kang Liu, Bradley Genovese, Robert Candler, Warren S. Grundfest, and Erik P. Dutson. "The (&alpha;, &beta;)-precise estimates of MTBF and MTTR: Definition, calculation, and observation time." <i>Surgical endoscopy</i> 31 (2017): 3258-3270.
