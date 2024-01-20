@@ -12,4 +12,4 @@ Key words: robotic surgery; suture; surgical platform; force sensor; suture tens
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5462887/pdf/nihms835111.pdf)
 
-Recommended citation: Abiri, Ahmad, Omeed Paydar, Anna Tao, Megan LaRocca, Kang Liu, Bradley Genovese, Robert Candler, Warren S. Grundfest, and Erik P. Dutson. "Tensile strength and failure load of sutures for robotic surgery." <i>Surgical endoscopy<i> 31 (2017): 3258-3270.
+Recommended citation: Recommended citation: Abiri, Ahmad, Omeed Paydar, Anna Tao, Megan LaRocca, Kang Liu, Bradley Genovese, Robert Candler, Warren S. Grundfest, and Erik P. Dutson. "Tensile strength and failure load of sutures for robotic surgery." <i>Surgical endoscopy<i> 31 (2017): 3258-3270.
