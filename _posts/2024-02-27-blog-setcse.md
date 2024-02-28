@@ -14,7 +14,7 @@ Taking inspiration from Set Theory, we introduce SetCSE, an innovative informati
 SetCSE Framework Illustration
 ======
 ![](/mysite/images/setcse/flowchart.png)
-worked this time?
+
 
 Evaluation
 ======
