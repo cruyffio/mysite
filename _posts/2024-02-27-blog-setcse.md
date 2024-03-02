@@ -18,6 +18,7 @@ SetCSE Framework Illustration
 ======
 ![](/mysite/images/setcse/flowchart.png)
 
+$ $
 
 Evaluation
 ======
@@ -25,3 +26,12 @@ Evaluation
 t-SNE plot of sentence embeddings from models with and without SetCSE
 ------
 ![](/mysite/images/setcse/batch2_AGT.png)
+
+$ $
+
+Application
+======
+
+![](/mysite/images/setcse/ESG.png)
+
+![](/mysite/images/setcse/Active_Learning.png)
