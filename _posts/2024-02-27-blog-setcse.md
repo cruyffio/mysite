@@ -1,6 +1,6 @@
 ---
 title: 'SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings'
-date: 2023-02-27
+date: 2024-02-27
 permalink: /blogs/setcse/
 tags:
   - Natural Language Processing
