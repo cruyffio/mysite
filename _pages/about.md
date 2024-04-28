@@ -24,6 +24,8 @@ The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Impr
 
 Publication
 ------
+1. **K. Liu**, "SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings," the 12th International Conference on Learning Representations (ICLR 2024). [[OpenReview]](https://openreview.net/pdf?id=zEHGSN8Hy8)
+
 1. **K. Liu**, N. Li, I. Kolmanvosky, A. Girard, "A Vehicle Routing Problem with Dynamic Demands and Restricted Failures Solved Using Stochastic Predictive Control," Proceedings of the 2019-Acc. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8814997)
 
 1. P. Alavian, Y. Eun, **K. Liu** (main), S. M. Meerkov and L. Zhang (alphabetical order), "The (&alpha;, &beta;)-Precise Estimates of MTBF and MTTR: Definitions, Calculations, and Induced Effect on Machine Efficiency Evaluation," Proceeding of the Manufacturing Modeling, Management and Control - 9th MIM 2019, Berlin, Germany. [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S2405896319313047)
