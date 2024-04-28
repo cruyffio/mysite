@@ -44,4 +44,4 @@ $ $
 Paper Link
 ======
 
-[OpenReview](https://openreview.net/forum?id=zEHGSN8Hy8)
+[OpenReview](https://openreview.net/pdf?id=zEHGSN8Hy8)
