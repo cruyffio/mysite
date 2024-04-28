@@ -24,7 +24,7 @@ The (&alpha;, &beta;) Precision Theory for Production System Monitoring and Impr
 
 Publication
 ------
-1. **K. Liu** (sole author), "SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings," the 12th International Conference on Learning Representations (ICLR 2024). [[OpenReview]](https://openreview.net/pdf?id=zEHGSN8Hy8)
+1. **K. Liu** (sole author), "SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings," The 12th International Conference on Learning Representations (ICLR 2024). [[OpenReview]](https://openreview.net/pdf?id=zEHGSN8Hy8)
 
 1. **K. Liu**, N. Li, I. Kolmanvosky, A. Girard, "A Vehicle Routing Problem with Dynamic Demands and Restricted Failures Solved Using Stochastic Predictive Control," Proceedings of the 2019-Acc. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8814997)
 
