@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* Director, Machine Learning for B2B Digital Marketing, American Express, Nov 2022 - Present.
+* Director, Gen AI for Commercial Digital Marketing, American Express, Nov 2022 - Present.
 * Senior Manager, NLP Research & Development, American Express, Aug 2021 - Nov 2022.
 
 Skills
