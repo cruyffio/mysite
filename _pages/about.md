@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a Marketing Gen AI Director at American Express Company, working on enterprise deep learning research and capability development. I obtained my Ph.D. degree from University of Michigan, [Eletrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department, majoring in Control System, under the guidance of [Professor Semyon M. Meerkov](https://eecs.engin.umich.edu/people/meerkov-semyon-m/), in August 2021, and the B.S.E. degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) (HIT), China, in 2016.
+I am a Commercial Marketing Data Science Director at American Express Company, working on enterprise deep learning research and capability development, including Gen AI-based Sales Assistant and Real-time Marketing Capability and Intelligence. I obtained my Ph.D. degree from University of Michigan, [Eletrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department, majoring in Control System, under the guidance of [Professor Semyon M. Meerkov](https://eecs.engin.umich.edu/people/meerkov-semyon-m/), in August 2021, and the B.S.E. degree from [Harbin Institute of Technology](http://en.hit.edu.cn/) (HIT), China, in 2016.
 
 Research
 ======
