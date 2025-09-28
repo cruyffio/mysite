@@ -35,3 +35,11 @@ Publication
 1. P. Alavian, Y. Eun, **K. Liu** (main), S. M. Meerkov and L. Zhang (alphabetical order), "The (&alpha;<sub>X</sub>, &beta;<sub>X</sub>)-Precise Estimates of Production Systems Performance Metrics," International Journal of Production Research, 2022. [[Taylor & Francis Online]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1886367)
 
 1. Y. Eun, **K. Liu** (main) and S. M. Meerkov (alphabetical order), "Production Systems with Cycle Overrun: Modeling, Analysis, Improvability, and Bottlenecks," International Journal of Production Research, 2022. [[Taylor & Francis Online]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1968528)
+
+1. **K. Liu**, "Conversational Product Recommendation via Soft Actor-Critic Reinforcement Learning," Preprint, Sept 2025. [[ResearchGate]](https://doi.org/10.13140/RG.2.2.28829.37601)
+
+1. **K. Liu**, "Optimizing Conversational Product Recommendation via Reinforcement Learning," Preprint, Jun 2025. [[arXiv]](https://arxiv.org/abs/2507.01060)
+
+1. **K. Liu**, "General Form Moment-based Estimator of Weibull, Gamma, and Log-normal Distributions," Preprint, May 2025. [[arXiv]](https://arxiv.org/abs/2505.01911)
+
+1. **K. Liu**, "Moment Monotonicity of Weibull, Gamma and Log-normal Distributions," Preprint, Feb 2025. [[arXiv]](https://arxiv.org/abs/2502.11366)
